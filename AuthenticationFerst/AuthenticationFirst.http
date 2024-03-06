@@ -1,0 +1,6 @@
+@AuthenticationFerst_HostAddress = http://localhost:5087
+
+GET {{AuthenticationFerst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
